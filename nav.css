@@ -1,0 +1,31 @@
+nav {
+    background-color: darkgrey;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid rgb(233, 233, 233);
+    border-bottom: 2px solid rgb(233, 233, 233);   
+    margin-left: 5px; 
+}
+
+a {
+    margin: 7px;
+    border-right: 1px solid rgb(233, 233, 233);
+    text-decoration: none;
+    padding-right: 7px;   
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+
+a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+    text-align: center;    
+}
+
+a:active {
+    color: black;  
+}
