@@ -1,0 +1,32 @@
+body {
+    background-color: darkslategrey;
+}
+
+form, h1, input, label, .knapp  {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    float: inline-end;
+    line-height: 25px;
+}
+
+#internet {
+    margin-left: -18px;
+}
+
+
+#annat {
+    margin-left: -96px;
+  
+}
+
+.ask {
+    margin-top: 15px;
+}
+
+.email {
+    margin-left: 90px;
+}
+
+
+
+
